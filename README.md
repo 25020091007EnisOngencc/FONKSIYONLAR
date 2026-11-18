@@ -35,4 +35,4 @@ Doküman içerisinde yer alan konu başlıkları ve problem türleri şunlardır
 
 ## 📄 Lisans
 
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır[cite: 21].
+Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
